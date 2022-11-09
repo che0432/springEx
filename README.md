@@ -10,9 +10,9 @@
 데이터베이스: MySQL 5.7  
 기타: VS code, Git, AWS, Maven
 
-JAVA_HOME 환경변수 설정
+JAVA_HOME 환경변수 설정  
 C:\Program Files\Java\jdk-11.0.2  
-Path 환경변수 설정
+Path 환경변수 설정  
 C:\Program Files\Java\jdk-11.0.2\bin 추가
 
 톰캣 실행

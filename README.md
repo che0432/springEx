@@ -15,8 +15,8 @@ C:\Program Files\Java\jdk-11.0.2
 Path 환경변수 설정  
 C:\Program Files\Java\jdk-11.0.2\bin 추가
 
-톰캣 실행
-cd apache-tomcat-9.0.68\bin
+톰캣 실행  
+cd apache-tomcat-9.0.68\bin  
 startup
 
 종료

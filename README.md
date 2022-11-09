@@ -19,5 +19,5 @@ C:\Program Files\Java\jdk-11.0.2\bin 추가
 cd apache-tomcat-9.0.68\bin  
 startup
 
-종료
+종료  
 shutdown
